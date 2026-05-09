@@ -1,0 +1,12 @@
+{
+  "name": "rikvip-api",
+  "version": "1.0.0",
+  "main": "rikvip.js",
+  "scripts": {
+    "start": "node rikvip.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "express": "^4.19.2"
+  }
+}
